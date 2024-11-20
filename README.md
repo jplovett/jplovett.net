@@ -1,2 +1,2 @@
 # jplovett.net
-the website
+the website hosted on hostgator as of 2024
